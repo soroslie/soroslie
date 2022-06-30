@@ -9,7 +9,7 @@ Technical Skills
 - Frameworks and Tools: Flutter, NodeJS Express, Embedded Javascript, jQuery, Redis, REST API, MySQL Server, Adobe XD, Git
 
 Contact Me
-[Linkedin]: http://www.reddit.com](https://www.linkedin.com/in/soros-lie/
+[Linkedin]: https://www.linkedin.com/in/soros-lie/
 
 <!--
 **soroslie/soroslie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
