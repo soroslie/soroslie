@@ -8,6 +8,7 @@ Technical Skills
 - Programming Language: Javascript, Dart, SQL, HTML5, CSS3.
 - Frameworks and Tools: Flutter, NodeJS Express, Embedded Javascript, jQuery, Redis, REST API, MySQL Server, Adobe XD, Git
 
+
 Contact Me
 - [Linkedin](https://www.linkedin.com/in/soros-lie/)
 - [Instagram](https://www.instagram.com/liesoros/)
