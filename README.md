@@ -1,5 +1,5 @@
 ### Hi Developer! 
-I'm. Soros Lie
+My name Soros Lie
 
 I am a Website & Mobile Apps Developer and I'm passionate about innovation. I have experience in web development, application design, environments and being able to apply new methodologies to my projects. 
 My greatest strength is my ability to learn, which enables me quickly adapting.
