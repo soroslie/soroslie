@@ -9,7 +9,7 @@ Technical Skills
 - Frameworks and Tools: Flutter, NodeJS Express, Embedded Javascript, jQuery, Redis, REST API, MySQL Server, Adobe XD, Git
 
 
-Contact Me
+Connect me
 - [Linkedin](https://www.linkedin.com/in/soros-lie/)
 - [Instagram](https://www.instagram.com/liesoros/)
 
