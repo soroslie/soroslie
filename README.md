@@ -7,7 +7,7 @@ My greatest strength is my ability to learn, which enables me quickly adapting.
 Technical Skills
 - Programming Language: Javascript, Typescript, Dart, SQL, HTML5, CSS3, Go, SQL
 - Frameworks: Flutter, NodeJS Express, Embedded Javascript, jQuery, Redis, MySQL, Postgres , GORM, Gin, React, NEXT JS  
-- Tools: , Adobe XD, Git, Jira, 
+- Tools: Figma, Adobe XD, Git, Jira, Postman 
 
 
 Connect me
