@@ -5,8 +5,9 @@ I am a Website & Mobile Apps Developer and I'm passionate about innovation. I ha
 My greatest strength is my ability to learn, which enables me quickly adapting.
 
 Technical Skills
-- Programming Language: Javascript, Dart, SQL, HTML5, CSS3.
-- Frameworks and Tools: Flutter, NodeJS Express, Embedded Javascript, jQuery, Redis, REST API, MySQL Server, Adobe XD, Git
+- Programming Language: Javascript, Typescript, Dart, SQL, HTML5, CSS3, Go, SQL
+- Frameworks: Flutter, NodeJS Express, Embedded Javascript, jQuery, Redis, MySQL, Postgres , GORM, Gin, React, NEXT JS  
+- Tools: , Adobe XD, Git, Jira, 
 
 
 Connect me
