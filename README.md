@@ -1,13 +1,14 @@
 ### Hi Developer! 
 My name Soros Lie
 
-I am a Website & Mobile Apps Developer and I'm passionate about innovation. I have experience in web development, application design, environments and being able to apply new methodologies to my projects. 
-My greatest strength is my ability to learn, which enables me quickly adapting.
+Dedicated software engineering learner, I embrace challenges and constantly seek opportunities to expand my knowledge. Eager to contribute to innovative projects, I am adaptable, curious, and committed to continuous growth in the ever-evolving field of software engineering. 
 
 Technical Skills
-- Programming Language: Javascript, Typescript, Dart, SQL, HTML5, CSS3, Go, SQL
-- Frameworks: Flutter, NodeJS Express, Embedded Javascript, jQuery, Redis, MySQL, Postgres , GORM, Gin, React, NEXT JS  
-- Tools: Figma, Adobe XD, Git, Jira, Postman 
+- Programming Language: Javascript, Typescript, Dart, SQL, HTML5, CSS3.
+- Frameworks: Flutter, NodeJS Express, Embedded Javascript, jQuery, React, MySQL, PostgresSQL 
+- Tools: Redis, Postman, Adobe XD, Git, Swagger
+- Testing: Cypress, Jest, Postman Test, Playwright, Chrome Selenium IDE
+
 
 
 Connect me
